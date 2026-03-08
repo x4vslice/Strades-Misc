@@ -8,6 +8,8 @@ Made a font file of the alien language from the webcomic 'TINR' and I'm sharing 
 
 Feedback? I may update and edit the font file if there's anything reported to me to improve. 🔎
 
+- Made with Glyphr Studio
+
 ---
 
 # ICOs, Strade's folders
