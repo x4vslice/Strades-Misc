@@ -1,8 +1,8 @@
-# TINR Font
+# TINR / TPOF Font
 
 <img width="207" height="540" alt="AlphabetTINR01_Smaller" src="https://github.com/user-attachments/assets/3ba474c8-8930-49cd-ac3e-f78fb85ad036" />
 
-Made a font file of the alien language from the webcomic 'TINR' and I'm sharing it with everyone!
+Made a font file of the alien language from the webcomic 'TINR', and demonic language from 'TPOF', and I'm sharing it with everyone!
 
 **What's included:** 1 .OTF file
 
