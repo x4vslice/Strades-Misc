@@ -2,7 +2,7 @@
 
 <img width="207" height="540" alt="AlphabetTINR01_Smaller" src="https://github.com/user-attachments/assets/3ba474c8-8930-49cd-ac3e-f78fb85ad036" />
 
-Made a font file of the alien language from the webcomic 'TINR', and demonic language from 'TPOF', and I'm sharing it with everyone!
+Made a clean font file of the runic language from 'TINR' and 'TPOF', and I'm sharing it!
 
 **What's included:** 1 .OTF file
 
@@ -21,7 +21,7 @@ Some .ICO files I made of folders as they appear on Strade's computer.
 May add more with time~
 
 ---
-All fanmade, I don't own the font symbols or any designs.
-Credits to Gato and past translators ❣️
+All fanmade, I don't own the font symbols/runes or any designs.
+Credits to Gato ❣️
 
 ~XAV
