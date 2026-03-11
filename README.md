@@ -8,7 +8,7 @@ Made a clean font file of the runic language from 'TINR' and 'TPOF', and I'm sha
 
 Feedback? I may update and edit the font file if there's anything reported to me to improve. 🔎
 
-- Made with Glyphr Studio
+- Created with Glyphr Studio
 
 ---
 
